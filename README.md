@@ -1,7 +1,7 @@
 # Klaipeda apartment scraping package
 
 This project is a Python package that scrapes https://domoplius.lt/ website for apartments that are for sale in Klaipeda.
-This website was chosen because it lists more apartments in Klaiped than other real estate websites. 
+This website was chosen because it lists more apartments in Klaipeda than other real estate websites. 
 The package is intended to meet all expected Python package standards: clean code, tests, documentation.
 
 The Scraper loops through these steps for every page number until it reaches the page_limit, which can be specified when creating a new object based on Scraper class:
